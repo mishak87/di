@@ -18,7 +18,8 @@
 		"nette/neon": "~2.2",
 		"nette/reflection": "~2.2",
 		"nette/php-generator": "~2.2",
-		"nette/utils": "~2.2"
+		"nette/utils": "~2.2",
+		"rixxi/shared-file-cache": "0.0.*"
 	},
 	"require-dev": {
 		"nette/tester": "~1.0"
